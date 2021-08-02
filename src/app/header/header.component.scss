@@ -1,0 +1,14 @@
+:host {
+    background: linear-gradient(to right, blue, white) ;
+}
+nav {
+    background: linear-gradient(to left, #3620EC, #FC5E97) ;
+    height: 50px;
+}
+nav > a {
+    padding: 5px;
+    text-decoration: none;
+    color: #ffffff;
+    margin: auto;
+    align-items: center;
+}
